@@ -7,7 +7,7 @@
 
 from socket import *
 
-# Create server and port for client DNS will get local host IP
+# Create server and port, DNS will get local host IP
 serverName = 'localhost'
 serverPort = 12000
 
