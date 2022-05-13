@@ -1,4 +1,4 @@
-# Names: Alonso , Daniel Letterman, Gabe Williams, & Nicholas Fotinakes
+# Names: Alonso Vega, Daniel Letterman, Gabe Williams, & Nicholas Fotinakes
 # Team: 10
 # Date: 2022-05-17
 # Title: PA#2 - UDP Pinger Client
