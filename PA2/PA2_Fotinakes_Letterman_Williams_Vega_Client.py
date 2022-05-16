@@ -9,9 +9,11 @@
 from socket import *
 import time
 
-# Use IP of h2 and port 12000 to create UDP Socket
+# Set server name to h2 address and server port 12000
 serverName = '10.0.0.2'
 serverPort = 12000
+
+# Create UDP Socket
 clientSocket = socket(AF_INET, SOCK_DGRAM)
 
 # Set socket timeout to one second
